@@ -25,7 +25,10 @@ public class PolymorphismExample {
 		c.name = "Thar";
 		c.age = 2;
 		
+         c.printInfo();
          c.printInfo(c.name);
+         c.printInfo(c.name, c.age);
+         
 	}
 
 }
