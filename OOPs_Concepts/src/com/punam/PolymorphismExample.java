@@ -23,7 +23,7 @@ public class PolymorphismExample {
 
 		Car c = new Car();
 		c.name = "Thar";
-		c.age = 2;
+		c.age = 5;
 		
          c.printInfo();
          c.printInfo(c.name);

@@ -7,7 +7,7 @@ class Animal{
 	}
 	
 	public void eat() {
-		System.out.println("this animal is eating food.");
+		System.out.println("This animal is eating food.");
 	}
 }
 

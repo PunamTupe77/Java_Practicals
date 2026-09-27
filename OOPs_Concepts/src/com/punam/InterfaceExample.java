@@ -16,7 +16,7 @@ class Cat implements A,B{
 
 	@Override
 	public void makeSound() {
-		System.out.println("Meow");
+		System.out.println("Meow Meow");
 	}
 	
 }

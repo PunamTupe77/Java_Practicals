@@ -23,8 +23,8 @@ public class EncapsulationConcept {
 	public static void main(String[] args) {
 		
      Account a = new Account();
-     a.setName("punam");
-     a.setEmail("tupepunam177@gmail.com");
+     a.setName("Anandi");
+     a.setEmail("anandi122@gmail.com");
      System.out.println("Name is : "+a.getName());
      System.out.println("Email is : "+a.getEmail());
 	}

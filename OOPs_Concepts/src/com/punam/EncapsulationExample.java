@@ -26,7 +26,7 @@ class BankAccount{
 public class EncapsulationExample {
 
 	public static void main(String[] args) {
-		BankAccount myAccount = new BankAccount(500);
+		BankAccount myAccount = new BankAccount(1000);
 		
 		myAccount.setBalance(100.0);
 		System.out.println("Current balance: "+myAccount.getBalance());

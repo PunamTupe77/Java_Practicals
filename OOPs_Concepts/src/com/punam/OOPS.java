@@ -15,7 +15,7 @@ public class OOPS {
 	public static void main(String[] args) {
 		
        Student s1 = new Student();
-       s1.name = "XYZ";
+       s1.name = "Rahul";
        s1.age = 24;
        s1.printInfo();
 	}
