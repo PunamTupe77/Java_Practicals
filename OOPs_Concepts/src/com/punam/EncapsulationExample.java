@@ -13,7 +13,7 @@ class BankAccount{
 		return balance;
 	}
 	
-	public void setBalance(Double amount) {
+	public void setBalance(double amount) {
 	    if(amount > 0) {
 	    	balance = balance + amount;
 	    	System.out.println("Amount Deposited Successfully " +amount);
